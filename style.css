@@ -1,0 +1,84 @@
+#abaixo--peso{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+    width:80%;
+    margin: auto;
+    padding: 15px;
+    background-color: rgba(200, 47, 47, 0.851);
+    color:white;
+    font-size: medium;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+#peso--ideal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+    width:80%;
+    margin: auto;
+    padding: 15px;
+    background-color: rgba(38, 170, 38, 0.845);
+    color:white;
+    font-size: medium;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+#peso--excesso{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+    width:80%;
+    margin: auto;
+    padding: 15px;
+    background-color: rgb(222, 222, 15);
+    color:white;
+    font-size: medium;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+#peso--obesidade{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+    width:80%;
+    margin: auto;
+    padding: 15px;
+    background-color: rgba(227, 16, 16, 0.827);
+    color:white;
+    font-size: medium;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+#container--input{
+    margin-top: 30px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    width:60vw;
+    min-width: 300px;
+    height: 300px;
+    margin: auto;
+    border:1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+
+}
